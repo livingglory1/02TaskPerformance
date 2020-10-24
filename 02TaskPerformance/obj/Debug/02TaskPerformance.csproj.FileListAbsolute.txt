@@ -1,0 +1,12 @@
+C:\Users\Hawks\source\repos\02TaskPerformance\02TaskPerformance\bin\Debug\02TaskPerformance.exe.config
+C:\Users\Hawks\source\repos\02TaskPerformance\02TaskPerformance\bin\Debug\02TaskPerformance.exe
+C:\Users\Hawks\source\repos\02TaskPerformance\02TaskPerformance\bin\Debug\02TaskPerformance.pdb
+C:\Users\Hawks\source\repos\02TaskPerformance\02TaskPerformance\obj\Debug\02TaskPerformance.csprojAssemblyReference.cache
+C:\Users\Hawks\source\repos\02TaskPerformance\02TaskPerformance\obj\Debug\_02TaskPerformance.CashierWindowQueue.resources
+C:\Users\Hawks\source\repos\02TaskPerformance\02TaskPerformance\obj\Debug\_02TaskPerformance.QueuingForm.resources
+C:\Users\Hawks\source\repos\02TaskPerformance\02TaskPerformance\obj\Debug\_02TaskPerformance.Properties.Resources.resources
+C:\Users\Hawks\source\repos\02TaskPerformance\02TaskPerformance\obj\Debug\02TaskPerformance.csproj.GenerateResource.cache
+C:\Users\Hawks\source\repos\02TaskPerformance\02TaskPerformance\obj\Debug\02TaskPerformance.csproj.CoreCompileInputs.cache
+C:\Users\Hawks\source\repos\02TaskPerformance\02TaskPerformance\obj\Debug\02TaskPerformance.exe
+C:\Users\Hawks\source\repos\02TaskPerformance\02TaskPerformance\obj\Debug\02TaskPerformance.pdb
+C:\Users\Hawks\source\repos\02TaskPerformance\02TaskPerformance\obj\Debug\_02TaskPerformance.CustomerView.resources
